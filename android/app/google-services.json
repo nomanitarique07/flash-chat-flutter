@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178435072083",
+    "project_id": "flash-chat-66ffa",
+    "storage_bucket": "flash-chat-66ffa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178435072083:android:a7183ad34171681525e6a6",
+        "android_client_info": {
+          "package_name": "co.tariquenomani.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178435072083-uplathu8o8n16cktban9d9l97dt8459e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbz-8Fr4zWUYAV6CcGod7-XUDbYLKO5WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178435072083-uplathu8o8n16cktban9d9l97dt8459e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
